@@ -1,0 +1,14 @@
+# IDE
+/.idea
+
+# Node
+/node_modules
+
+# Temporary
+/tmp
+
+# JS
+/dist
+
+# ENV
+/.env
